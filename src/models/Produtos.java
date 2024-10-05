@@ -1,3 +1,4 @@
+package models;
 public class Produtos {
 
     private String tipo;
