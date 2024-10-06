@@ -5,6 +5,9 @@ import java.util.Scanner;
 
 import db.ProdutosDB;
 import db.UsuarioDB;
+import user.Cliente;
+import user.Usuario;
+import user.Admin;
 
 public class ProdutosMain {
     static ProdutosDB produtosDB = new ProdutosDB();

@@ -1,7 +1,9 @@
 package db;
 
-import models.Usuario;
 import java.util.List;
+
+import user.Usuario;
+
 import java.util.ArrayList;
 
 public class UsuarioDB {

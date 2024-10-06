@@ -1,4 +1,5 @@
-package models;
+package user;
+
 public class Admin extends Usuario{
 
     public Admin(String nome){
